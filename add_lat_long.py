@@ -9,6 +9,27 @@ missing = pd.read_csv(DATA_DIR / "download_02-13-2026.21_02_57.csv", encoding="u
 # abbreviation, and the lat/lng centroid for each county.
 counties = pd.read_csv(DATA_DIR / "uscounties.csv")
 
+# Fallback county lookup for records where County is NaN.
+# Keyed by (city lowercase, state abbreviation) -> county name matching uscounties.csv spelling.
+MISSING_COUNTY_HANDLING = {
+    ("winston-salem", "NC"): "Forsyth",
+    ("brooklyn",       "NY"): "Kings",
+    ("chamblee",       "GA"): "DeKalb",
+    ("virginia beach", "VA"): "Virginia Beach",
+    ("greensboro",     "NC"): "Guilford",
+    ("fort payne",     "AL"): "DeKalb",
+    ("decatur",        "GA"): "DeKalb",
+}
+
+missing_county_mask = missing["County"].isna()
+if missing_county_mask.any():
+    missing.loc[missing_county_mask, "County"] = missing.loc[missing_county_mask].apply(
+        lambda row: MISSING_COUNTY_HANDLING.get(
+            (str(row["City"]).lower(), row["State"]), row["County"]
+        ),
+        axis=1,
+    )
+
 # This handles mismatched capitalization.
 # For example, the missing persons data uses "LaRue" (KY) while the counties file uses "Larue".
 # To avoid losing valid matches, lowercase both county name columns and

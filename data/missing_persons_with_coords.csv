@@ -39,7 +39,7 @@ MP154184,11/01/2025,Osborne,Ethan,26 Years,Greensboro,Guilford,NC,Male,White / C
 MP151920,10/31/2025,Cheng,Skyla,17 Years,Knoxville,Knox,TN,Female,White / Caucasian,11/13/2025,35.9932,-83.9371
 MP152247,10/29/2025,Hairston,Harvey,70 Years,Greensboro,Guilford,NC,Male,Black / African American,12/10/2025,36.0795,-79.7889
 MP152279,10/28/2025,Tindal,Ky-mani,16 Years,Murfreesboro,Rutherford,TN,Male,Black / African American,12/22/2025,35.8427,-86.4167
-MP154324,10/28/2025,Seagle,Jeffrey,60 Years,Winston-Salem,,NC,Male,White / Caucasian,02/03/2026,,
+MP154324,10/28/2025,Seagle,Jeffrey,60 Years,Winston-Salem,Forsyth,NC,Male,White / Caucasian,02/03/2026,36.1306,-80.2564
 MP152474,10/24/2025,Jackson,Brian,44 Years,Memphis,Shelby,TN,Male,White / Caucasian,01/20/2026,35.1843,-89.8938
 MP153036,10/23/2025,Lowery,Jasmine,16 Years,Godwin,Cumberland,NC,Female,American Indian / Alaska Native,12/29/2025,35.0487,-78.8277
 MP152164,10/17/2025,Parker,Jyronna,54 Years,Lexington,Fayette,KY,Male,Black / African American,01/09/2026,38.0423,-84.4587
@@ -441,7 +441,7 @@ MP125118,06/30/2024,Lufkin,Sean,57 Years,Long Beach,Nassau,NY,Male,White / Cauca
 MP125907,06/29/2024,Woodard,Kimberly,39 Years,Morganton,Burke,NC,Female,White / Caucasian,08/08/2024,35.7496,-81.7048
 MP132398,06/29/2024,Hardin,Brandon,45 Years,Knoxville,Knox,TN,Male,Black / African American,11/06/2024,35.9932,-83.9371
 MP131791,06/29/2024,Letcher,Emma,21 Years,Cincinnati,Clermont,OH,Female,White / Caucasian,05/23/2025,39.0476,-84.1517
-MP136215,06/28/2024,BARTLEY,KADESHIA,17 Years,Brooklyn,,NY,Female,Black / African American,04/14/2025,,
+MP136215,06/28/2024,BARTLEY,KADESHIA,17 Years,Brooklyn,Kings,NY,Female,Black / African American,04/14/2025,40.6413,-73.9383
 MP127923,06/28/2024,Elder Smiley,Valerie,41 Years,Chattanooga,Hamilton,TN,Female,Black / African American,12/11/2025,35.1808,-85.1648
 MP134736,06/27/2024,Griffin,Lindsey,27 Years,Gulfport,Harrison,MS,Male,Black / African American,12/13/2024,30.5122,-89.116
 MP131326,06/27/2024,Manis,Tammy,54 Years,Knoxville,Knox,TN,Female,White / Caucasian,10/17/2024,35.9932,-83.9371
@@ -629,7 +629,7 @@ MP115151,12/26/2023,LOPEZ,ANGELLY,14 Years,Nashville,Davidson,TN,Female,"White /
 MP154449,12/26/2023,Knight,Benjamin,29 Years,Louisville,Jefferson,KY,Male,White / Caucasian,01/30/2026,38.1872,-85.6591
 MP114737,12/25/2023,Miller,Jason,49 Years,Clyde,Haywood,NC,Male,White / Caucasian,04/24/2025,35.556,-82.9822
 MP142785,12/24/2023,Hamrick,Ronald,45 Years,Kings Mountain,Cleveland,NC,Male,Black / African American,04/29/2025,35.3341,-81.5555
-MP121571,12/21/2023,Peeler,Jeremy,36 Years,Chamblee,,GA,Male,White / Caucasian,07/25/2025,,
+MP121571,12/21/2023,Peeler,Jeremy,36 Years,Chamblee,DeKalb,GA,Male,White / Caucasian,07/25/2025,33.7716,-84.2264
 MP115014,12/21/2023,McGinnis,Braonain,24 Years,Glen Burnie,Anne Arundel,MD,Male,White / Caucasian,05/08/2024,39.0065,-76.6051
 MP118849,12/20/2023,Topps,Kaliq,16 Years,Memphis,Shelby,TN,Male,Black / African American,03/26/2024,35.1843,-89.8938
 MP120609,12/18/2023,Ba Xol,Sergio,14 Years,Culpeper,Culpeper,VA,Male,Hispanic / Latino,05/06/2025,38.486,-77.9558
@@ -1883,7 +1883,7 @@ MP57820,04/25/2019,Wright,Conroy,43 Years,Atlanta,Fulton,GA,Male,Black / African
 MP115078,04/23/2019,Garner,William,56 Years,Atlanta,DeKalb,GA,Male,White / Caucasian,02/16/2024,33.7716,-84.2264
 MP59669,04/22/2019,Jutras,Peter,38 Years,Winder,Barrow,GA,Male,White / Caucasian,08/26/2019,33.9932,-83.7127
 MP128460,04/21/2019,Pu-Tzoy,Maria,17 Years,La Vergne,Rutherford,TN,Female,Hispanic / Latino,09/10/2024,35.8427,-86.4167
-MP107506,04/19/2019,Narron,Christopher,44 Years,Virginia Beach,,VA,Male,White / Caucasian,11/30/2025,,
+MP107506,04/19/2019,Narron,Christopher,44 Years,Virginia Beach,Virginia Beach,VA,Male,White / Caucasian,11/30/2025,36.7335,-76.0435
 MP57580,04/17/2019,Huber,Michael,40 Years,Philadelphia,Philadelphia,PA,Male,White / Caucasian,04/08/2020,40.0076,-75.134
 MP85495,04/13/2019,White,David,21 Years,Findlay,Hancock,OH,Male,White / Caucasian,04/28/2025,41.0019,-83.6665
 MP56837,04/13/2019,Nemes,Janos,33 Years,Brooklyn,Kings,NY,Male,White / Caucasian,11/24/2020,40.6413,-73.9383
@@ -1970,7 +1970,7 @@ MP136577,11/22/2018,Eller,Fancie,27 Years,Boaz,Marshall,AL,Female,White / Caucas
 MP73198,11/20/2018,Demianczyk,Katherine,25 Years,Philadelphia,Philadelphia,PA,Female,White / Caucasian,08/15/2025,40.0076,-75.134
 MP58452,11/17/2018,Krzywicki,Robert,23 Years,Philadelphia,Philadelphia,PA,Male,White / Caucasian,11/24/2024,40.0076,-75.134
 MP55693,11/16/2018,Goldsworthy,Jessica,24 Years,Sutterville,Westmoreland,PA,Female,White / Caucasian,07/19/2021,40.3109,-79.4668
-MP99118,11/16/2018,Mahida,Indrajitsinh,38 Years,Greensboro,,NC,Male,Asian,11/15/2023,,
+MP99118,11/16/2018,Mahida,Indrajitsinh,38 Years,Greensboro,Guilford,NC,Male,Asian,11/15/2023,36.0795,-79.7889
 MP53884,11/15/2018,Fanning,Travis,30 Years,Hazle Township,Luzerne,PA,Male,White / Caucasian,01/12/2024,41.177,-75.9892
 MP64479,11/13/2018,Carter,Kacey,25 Years,Cleveland,Bradley,TN,Female,White / Caucasian,10/23/2025,35.1541,-84.8596
 MP53982,11/10/2018,Wallace Sr.,Marvin,47 Years,Memphis,Shelby,TN,Male,Black / African American,04/28/2020,35.1843,-89.8938
@@ -2799,7 +2799,7 @@ MP72449,04/25/2014,Cole,Alana,42 Years,Prince George,Prince George,VA,Female,Whi
 MP35103,04/24/2014,Stubbs,Kierra,23 Years,Birmingham,Jefferson,AL,Female,Black / African American,10/17/2019,33.5543,-86.8964
 MP57543,04/23/2014,Parker,Jermaine,17 Years,Memphis,Shelby,TN,Male,Black / African American,11/25/2019,35.1843,-89.8938
 MP25719,04/23/2014,Vail,Robert,56 Years,New Rochelle,Westchester,NY,Male,White / Caucasian,10/25/2022,41.1626,-73.7561
-MP26780,04/17/2014,Gorham,Wendy,43 Years,Fort Payne,,AL,Female,White / Caucasian,02/05/2020,,
+MP26780,04/17/2014,Gorham,Wendy,43 Years,Fort Payne,DeKalb,AL,Female,White / Caucasian,02/05/2020,34.4598,-85.8041
 MP70271,04/16/2014,Malave,Pamela,17 Years,Buffalo,Erie,NY,Female,Uncertain,01/07/2025,42.7639,-78.7323
 MP26491,04/15/2014,Wright,Michael,59 Years,Mahopac,Putnam,NY,Male,White / Caucasian,04/10/2024,41.4267,-73.7495
 MP26248,04/10/2014,Bowen,Jayme,22 Years,Columbus,Franklin,OH,Female,White / Caucasian,01/16/2026,39.9695,-83.0093
@@ -5789,7 +5789,7 @@ MP20751,01/23/1980,Gregory,Connie,30 Years,Leitchfield,Grayson,KY,Female,White /
 MP7205,01/21/1980,Hart,Jennings,50 Years,Marienville,Forest,PA,Male,White / Caucasian,09/28/2023,41.513,-79.236
 MP110875,01/21/1980,Bruce,Walker,64 Years,Nashville,Davidson,TN,Male,White / Caucasian,01/23/2026,36.1695,-86.7848
 MP21810,01/03/1980,Giarrizzo,Frank,24 Years,West Islip,Suffolk,NY,Male,White / Caucasian,10/26/2021,40.8681,-72.8456
-MP20630,01/01/1980,Redding,Susan,20 Years,Decatur,,GA,Female,Black / African American,09/19/2024,,
+MP20630,01/01/1980,Redding,Susan,20 Years,Decatur,DeKalb,GA,Female,Black / African American,09/19/2024,33.7716,-84.2264
 MP7588,12/26/1979,Allen,Angela,28 Years,Syracuse,Onondaga,NY,Female,Black / African American,05/17/2025,43.0058,-76.1946
 MP9602,12/09/1979,Knox,James,24 Years,Warsaw,Wyoming,NY,Male,White / Caucasian,01/12/2024,42.7024,-78.2244
 MP22391,12/04/1979,Columbo,John,47 Years,Lake Ronkonkoma,Suffolk,NY,Male,White / Caucasian,06/08/2020,40.8681,-72.8456
